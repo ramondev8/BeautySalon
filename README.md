@@ -27,4 +27,4 @@ You can view the project layout through [this link](https://www.figma.com/commun
 
 ## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details..
